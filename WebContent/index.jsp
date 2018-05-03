@@ -14,14 +14,16 @@
 		<table>
 			<tr>
 				<th>아이디</th>
-				<td></td>
+				<td><input type="text" name="userId"/></td>
 			</tr>
 			<tr>
 				<th>비밀번호</th>
-				<td></td>
+				<td><input type="password" name="userPw"/></td>
 			</tr>			
 			<tr>
-				<td colspan="2"></td>
+				<td colspan="2">
+					<button>로그인</button>
+				</td>
 			</tr>			
 		</table>
 	</body>
