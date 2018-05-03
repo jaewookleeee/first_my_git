@@ -10,9 +10,12 @@
 		</style>
 	</head>
 	<body>
-		<ul>
-			<li>첫번째 리스트</li>
-		</ul>
+		<ol>
+			<li>List</li>
+			<li>List</li>
+			<li>List</li>
+			<li>List</li>
+		</ol>
 	</body>
 	<script>
 	
