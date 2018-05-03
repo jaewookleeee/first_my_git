@@ -20,6 +20,7 @@
 			<li>List</li>
 			<li>List</li>
 		</ol>
+		<p>리스트 마감</p>
 	</body>
 	<script>
 	
